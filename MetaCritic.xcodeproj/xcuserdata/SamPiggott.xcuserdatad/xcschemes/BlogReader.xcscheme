@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0500"
+   LastUpgradeVersion = "0600"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "A9F931FB18BD4A3100B5BBFF"
-               BuildableName = "BlogReader.app"
-               BlueprintName = "BlogReader"
-               ReferencedContainer = "container:BlogReader.xcodeproj">
+               BuildableName = "MetaCritic.app"
+               BlueprintName = "MetaCritic"
+               ReferencedContainer = "container:MetaCritic.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "A9F9321B18BD4A3100B5BBFF"
-               BuildableName = "BlogReaderTests.xctest"
-               BlueprintName = "BlogReaderTests"
-               ReferencedContainer = "container:BlogReader.xcodeproj">
+               BuildableName = "MetaCriticTests.xctest"
+               BlueprintName = "MetaCriticTests"
+               ReferencedContainer = "container:MetaCritic.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A9F931FB18BD4A3100B5BBFF"
-            BuildableName = "BlogReader.app"
-            BlueprintName = "BlogReader"
-            ReferencedContainer = "container:BlogReader.xcodeproj">
+            BuildableName = "MetaCritic.app"
+            BlueprintName = "MetaCritic"
+            ReferencedContainer = "container:MetaCritic.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A9F931FB18BD4A3100B5BBFF"
-            BuildableName = "BlogReader.app"
-            BlueprintName = "BlogReader"
-            ReferencedContainer = "container:BlogReader.xcodeproj">
+            BuildableName = "MetaCritic.app"
+            BlueprintName = "MetaCritic"
+            ReferencedContainer = "container:MetaCritic.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -80,9 +80,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "A9F931FB18BD4A3100B5BBFF"
-            BuildableName = "BlogReader.app"
-            BlueprintName = "BlogReader"
-            ReferencedContainer = "container:BlogReader.xcodeproj">
+            BuildableName = "MetaCritic.app"
+            BlueprintName = "MetaCritic"
+            ReferencedContainer = "container:MetaCritic.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
